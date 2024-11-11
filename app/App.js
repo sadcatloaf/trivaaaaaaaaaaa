@@ -1,5 +1,7 @@
 // import { router } from './router-config.js';
 
+import { TriviaController } from "./controllers/TriviaController.js"
+
 const USE_ROUTER = false
 
 class App {
